@@ -1,6 +1,5 @@
 import re
 import streamlit as st
-import pyperclip  # For copying text to clipboard
 
 # Configure the page layout and title
 st.set_page_config(page_title="Password Strength Checker", layout="centered")
